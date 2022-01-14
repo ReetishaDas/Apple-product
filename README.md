@@ -1,6 +1,6 @@
 # appleprod_assignment
 
-A new Flutter project.
+(Android section in progress)
 
 ## Getting Started
 
